@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I'm Nashih Abdul 👋
+#### Data Scientist
 
-<!--
-**BangNashih/bangnashih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Data Scientist](https://github.com/bangnashih/bangnashih/)
 
-Here are some ideas to get you started:
+I am Junior Data Scientist. I currently focus on Machine Learning and Deep Learning. Keen interested in AI and Quantum Information. Eager to contribute to innovative projects, driven by a commitment to continuous learning and exploration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills: 
+PYTHON / MACHINE LEARNING / DEEP LEARNING / SQL 
+
+- 🌱 Learning TensorFlow and OpenCV
+- 👯 Looking to collaborate on Machine Learning Development. 
+- 📫 Kindly reach me through: nashihabdul.h@gmail.com 
+
+#### Potfofolios
+https://bangnashih.github.io/
+
+#### Social Media
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bangnashih)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nashihabdul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bangnashih/)  
