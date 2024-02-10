@@ -3,14 +3,14 @@
 
 ![Data Scientist](https://github.com/bangnashih/bangnashih/)
 
-I am Junior Data Scientist. I currently focus on Machine Learning and Deep Learning. Keen interested in AI and Quantum Information. Eager to contribute to innovative projects, driven by a commitment to continuous learning and exploration.
+I am a Data Scientist. I currently focus on Machine Learning and Deep Learning. Interested in AI and Quantum Information for next study. Seeking for collaboration in innovative projects.
 
 #### Skills: 
 PYTHON / MACHINE LEARNING / DEEP LEARNING / SQL 
 
-- 🌱 Learning TensorFlow and OpenCV
-- 👯 Looking to collaborate on Machine Learning Development. 
-- 📫 Kindly reach me through: nashihabdul.h@gmail.com 
+- 🌱 Learning TensorFlow and Computer Vision
+- 👯 Looking to collaborate on Machine Learning and Deep Learning Development. 
+- 📫 Reach me through: nashihabdul.h@gmail.com 
 
 #### Potfofolios
 https://bangnashih.github.io/
