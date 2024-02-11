@@ -192,5 +192,5 @@
 <br/>
 <div align="center">
   <a href="bangnashih.github.io">
-    <img src="" alt="Homepage Preview" height="600" style="max-width: 100%"/><a/>
+    <img src="https://github.com/BangNashih/bangnashih/blob/main/homepage_preview.png" alt="Homepage Preview" style="max-width: 100%"/><a/>
 </div>
