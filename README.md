@@ -149,10 +149,10 @@
             <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="" height="20" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://github.com/nashihabdul/data_science_projects/blob/main/deep_age_estimation/deep_age_estimation.ipynb">Deep Age Estimation Using ResNet50 Architecture</a></td>
+            <td>The store owner wants to improve their services based on their customer's age. The objective is to build a model that can estimate the age of the customer based on their face.</td>
+            <td>Python, TensorFlow, Keras, ResNet50</td>
+            <td>Deep Learning, Computer Vision, Regression</td>
             <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
