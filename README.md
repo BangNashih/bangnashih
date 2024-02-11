@@ -10,7 +10,7 @@
  
  🔭 I’m currently focus on **Machine Learning & Deep Learning**
  
- 🌱 I’m currently learning **TensorFlow & YOLO**
+ 🌱 I’m currently learning **TensorFlow & YOLO** and preparing to study Applied Artificial Intelligence in **IU International University of Appled Science Berlin**
 
 💬 Ask me about **Data science projects or collaboration**
 </div>
