@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slap&size=40&weight=600&center=true&vCenter=true&color=5C5427&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nashih+Abdul!;"/>
 </h1>
 
-<h3 align='center'>I am a Data Scientist from Indonesia. Interested in AI and Quantum Information for the next study. Seeking for full-time data scientist position.</h3>
+<h3 align='center'>I am a Data Scientist from Indonesia. Get used to common data analyst projects. Additionaly, experience in machine learning and deep learning modeling such as forecasting, estimating, and classification. Interested in AI and Quantum Information for the next study. Seeking for full-time data scientist or machine learning engineer position.</h3>
 
 <br/>
 
