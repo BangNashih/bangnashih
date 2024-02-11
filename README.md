@@ -27,7 +27,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'/></a>
   <a href="https://www.instagram.com/bangnashih/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt='instagram' height='40'/></a>
-  <a href="https://bangnashih.github.io"">
+  <a href="https://nashihabdul.github.io"">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt='website' height='40'/></a>
   <a href="https://kaggle.com/bangnashih"">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" alt='kaggle' height='40'/></a>
@@ -78,13 +78,13 @@
 <h2 align="center">Certificates</h2>
 <br/>
 <div align="center">
-  <a href="https://github.com/BangNashih/certficates/blob/main/microsoft%20ai%20fundamentals.pdf">
+  <a href="https://github.com/nashihabdul/certficates/blob/main/microsoft%20ai%20fundamentals.pdf">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft AI-900" height="60" style="max-width: 100%"/><a/>
-  <a href="https://github.com/BangNashih/certficates/blob/main/duolingo_english_test.pdf">
+  <a href="https://github.com/nashihabdul/certficates/blob/main/duolingo_english_test.pdf">
     <img src="https://static.wixstatic.com/media/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png/v1/fill/w_749,h_1001,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/8b19d9_ebf5d374b3044af4b73cc2def43e5cdc~mv2.png" alt="Duolingo English" height="60" style="max-width: 100%"/><a/>
-  <a href="https://github.com/BangNashih/certficates/blob/main/itp_online_blc.pdf">
+  <a href="https://github.com/nashihabdul/certficates/blob/main/itp_online_blc.pdf">
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b3/b6/6e/b3b66e9d-aa6e-8abd-3839-9893c0fe51fe/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg" alt="ITP English" height="60" style="max-width: 100%"/><a/>
-  <a href="https://github.com/BangNashih/certficates/blob/main/ibm_z_day.pdf">
+  <a href="https://github.com/nashihabdul/certficates/blob/main/ibm_z_day.pdf">
     <img src="https://v.fastcdn.co/u/0bc8903d/64422810-0-zDay-23-IP-Banner-dr.png" alt="IBM Z Day 2023" height="60" style="max-width: 100%"/><a/>
 </div>
 
@@ -142,11 +142,11 @@
     </thead>
     <tbody>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
+            <td><a href="https://github.com/nashihabdul/data_science_projects/blob/main/steel_temperature_prediction/steel_temperature_estimation.ipynb">Optimization of Production Cost: Steel Temperature Prediction Model</a></td>
+            <td>In order to optimize production costs, the smelter decided to reduce electricity consumption during the steel processing stage. The objective is to build a predictive model for the final steel melting temperature.</td>
+            <td>Python, Pipeline, Optuna, pandas, Catboost, XGBoost, Scikit-Learn</td>
+            <td>Regression, Hyperparameter Tuning, EDA, Feature Engineering</td>
+            <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="" height="20" style="max-width: 100%" /></td>
         </tr>
         <tr>
             <td></td>
@@ -184,7 +184,7 @@
             <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td colspan="5">See 10+ more of my data scientist projects in my repositories or my <a href="https://bangnashih.github.io">personal website</a></td>
+            <td colspan="5">See 10+ more of my data scientist projects in my repositories or my <a href="https://nashihabdul.github.io">personal website</a></td>
         </tr>
     </tbody>
     </table>
@@ -193,6 +193,7 @@
 <h2 align="center">My Website Portofolio's Preview</h2>
 <br/>
 <div align="center">
-  <a href="bangnashih.github.io">
-    <img src="https://github.com/BangNashih/bangnashih/blob/main/homepage_preview.png" alt="Homepage Preview" style="max-width: 100%"/><a/>
+  <a href="nashihabdul.github.io">
+    <img src="https://github.com/nashihabdul/nashihabdul/blob/main/homepage_preview.png" alt="Homepage Preview" style="max-width: 100%"/><a/>
+  <a href="nashihabdul.github.io">Go to the website</a>
 </div>
