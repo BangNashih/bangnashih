@@ -112,7 +112,7 @@
         <tr>
             <td>Harmful Brain Activity Classification</td>
             <td>Classify seizures and other patterns of harmful brain activity in critically ill patients from electroencephalography (EEG) signals</td>
-            <td>`parquet, TensorFlow, Keras, Keras CV</td>
+            <td>parquet, TensorFlow, Keras, Keras CV</td>
             <td>Signal Processing, Deep Learning, Spectogram, Pattern Classification</td>
             <td><img src="https://hms.harvard.edu/themes/shared/harvardmedical/logo.svg" alt="Harvard Medical School (HMS)" height="40" style="max-width: 100%" /></td>
         </tr>
@@ -184,7 +184,7 @@
             <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td colspan="5">See more of my data scientist projects in my repositories or my <a href="https://bangnashih.github.io">personal website</a></td>
+            <td colspan="5">See 10+ more of my data scientist projects in my repositories or my <a href="https://bangnashih.github.io">personal website</a></td>
         </tr>
     </tbody>
     </table>
