@@ -103,21 +103,21 @@
     </thead>
     <tbody>
         <tr>
-            <td>Risk Evaluation</td>
+            <td><a href="https://www.kaggle.com/competitions/world-championship-2023-risk-evaluation?rvi=1">Risk Evaluation</a></td>
             <td>Predict the risk status from CVS Health Customer's tweets using NLP</td>
             <td>pandas, scikit-learn, svm, pipeline</td>
             <td>NLP, Regression, EDA</td>
             <td align="center"><img src="https://media.licdn.com/dms/image/D4E0BAQG7Kz8L8a9cjA/company-logo_200_200/0/1666224378116/isods_logo?e=2147483647&v=beta&t=_kFOvcWA45R_rIvbppejUdc9ap71CBtqR36ZrbURRYg" alt="International Society of Data Scientist" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td>Harmful Brain Activity Classification</td>
+            <td><a href="https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification">Harmful Brain Activity Classification</a></td>
             <td>Classify seizures and other patterns of harmful brain activity in critically ill patients from electroencephalography (EEG) signals</td>
             <td>parquet, TensorFlow, Keras, Keras CV</td>
             <td>Signal Processing, Deep Learning, Spectogram, Pattern Classification</td>
             <td><img src="https://hms.harvard.edu/themes/shared/harvardmedical/logo.svg" alt="Harvard Medical School (HMS)" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td>Credit Risk Model Stability</td>
+            <td><a href="https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability">Credit Risk Model Stability</a></td>
             <td>Create a model measured against feature stability over time. The goal of this competition is to predict which clients are more likely to default on their loans.</td>
             <td>pandas, polars, optuna, scikit-learn, LightGBM, Pipeline</td>
             <td>Rust Language, Aggregation, Regression, Hyperparameter Tunning</td>
@@ -146,14 +146,21 @@
             <td>In order to optimize production costs, the smelter decided to reduce electricity consumption during the steel processing stage. The objective is to build a predictive model for the final steel melting temperature.</td>
             <td>Python, Pipeline, Optuna, pandas, Catboost, XGBoost, Scikit-Learn</td>
             <td>Regression, Hyperparameter Tuning, EDA, Feature Engineering</td>
-            <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="" height="20" style="max-width: 100%" /></td>
+            <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="TripleTen" height="20" style="max-width: 100%" /></td>
         </tr>
         <tr>
             <td><a href="https://github.com/nashihabdul/data_science_projects/blob/main/deep_age_estimation/deep_age_estimation.ipynb">Deep Age Estimation Using ResNet50 Architecture</a></td>
             <td>The store owner wants to improve their services based on their customer's age. The objective is to build a model that can estimate the age of the customer based on their face.</td>
             <td>Python, TensorFlow, Keras, ResNet50</td>
             <td>Deep Learning, Computer Vision, Regression</td>
-            <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
+            <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="TripleTen" height="40" style="max-width: 100%" /></td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/nashihabdul/data_science_projects/blob/main/sentiment_analysis_imdb/sentiment_analysis_imdb_reviews.ipynb">Sentiment Analysis IMDb Reviews</a></td>
+            <td>The film store wants to improve their services. They want to automatically detect negative film reviews. The task is to predict the probabilities of the reviews. The model aims to achieve a minimum F1 score of 0.85.</td>
+            <td>Numpy, Scikit-Learn, NLTK, re, Scipy</td>
+            <td>NLP, Machine Learning, Logistic Regression, Sentiment Analysis</td>
+            <td align="center"><img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="TripleTen" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
             <td></td>
@@ -177,14 +184,7 @@
             <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
-        </tr>
-        <tr>
-            <td colspan="5">See 10+ more of my data scientist projects in my repositories or my <a href="https://nashihabdul.github.io">personal website</a></td>
+            <td colspan="5">See 10+ more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://nashihabdul.github.io">personal website</a></td>
         </tr>
     </tbody>
     </table>
