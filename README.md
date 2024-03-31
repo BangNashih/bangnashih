@@ -78,6 +78,8 @@
 <h2 align="center">Certificates</h2>
 <br/>
 <div align="center">
+  <a href="https://github.com/nashihabdul/certficates/blob/main/data_scientist.pdf">
+    <img src="https://comeet-euw-app.s3.amazonaws.com/2200/2870caa9b59ddb91b39235ad102a0945ced99e5c" alt="Data Scientist" height="60" style="max-width: 100%"/><a/>
   <a href="https://github.com/nashihabdul/certficates/blob/main/microsoft%20ai%20fundamentals.pdf">
     <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft AI-900" height="60" style="max-width: 100%"/><a/>
   <a href="https://github.com/nashihabdul/certficates/blob/main/duolingo_english_test.pdf">
