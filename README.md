@@ -186,16 +186,8 @@
             <td align="center"><img src="" alt="" height="40" style="max-width: 100%" /></td>
         </tr>
         <tr>
-            <td colspan="5">See 10+ more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://nashihabdul.github.io">personal website</a></td>
+            <td colspan="5">See 10+ more of my data scientist projects in my <a href="https://github.com/nashihabdul/data_science_projects/">repositories</a> or my <a href="https://www.datascienceportfol.io/nashihabdul">personal website</a></td>
         </tr>
     </tbody>
     </table>
-</div>
-
-<h2 align="center">My Website Portofolio's Preview</h2>
-<br/>
-<div align="center">
-  <a href="nashihabdul.github.io">
-    <img src="https://github.com/nashihabdul/nashihabdul/blob/main/homepage_preview.png" alt="Homepage Preview" style="max-width: 100%"/><a/>
-  <a href="nashihabdul.github.io">Go to the website</a>
 </div>
